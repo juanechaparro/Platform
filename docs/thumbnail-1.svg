@@ -1,0 +1,12 @@
+<svg id="thumbnail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="62" height="62" rx="14" fill="#24359d"/>
+    </clipPath>
+  </defs>
+  <rect id="Mask-2" data-name="Mask" width="62" height="62" rx="14" fill="#24359d"/>
+  <g id="thumbnail-2" data-name="thumbnail" clip-path="url(#clip-path)">
+    <circle id="Oval" cx="26" cy="26" r="26" transform="translate(27 -13)" fill="#fed200"/>
+    <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="9.5" cy="9.5" r="9.5" transform="translate(8 34)" fill="#fed200"/>
+  </g>
+</svg>
