@@ -1,0 +1,55 @@
+.header-img{
+    margin-top: 20px;
+    position:absolute;
+    z-index: -1;
+}
+.Group-img{
+    margin-top: 33px;
+    position:absolute;
+    z-index: 1;
+    top: 100px;
+}
+.h2-w{
+    padding:  70px 0 0 250px;
+    color: white;
+    font: Gotham-Medium;
+}
+.p-header{
+    padding:  0 0 0 250px;
+    color: white;
+    font: Gotham-Medium;
+}
+#LabelsPrimary {
+    position: absolute;
+    width: 89px;
+    height: 21px;
+    left: 825px;
+    top: 470px;
+    overflow: visible;
+}
+#Label {
+    left: 21.5px;
+    top: 1px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Muli-Bold;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Rectangle_c {
+    fill: rgba(61,132,255,1);
+}
+.Rectangle_c {
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    height: 21px;
+    left: 0px;
+    top: 0px;
+}

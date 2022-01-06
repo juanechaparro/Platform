@@ -1,0 +1,62 @@
+.btn{
+    background-color: transparent;
+    border:none;
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 14px 20px 14px 20px;
+    &:focus{
+        outline: none;
+
+    }
+   
+}
+.nav-btn{
+    font-size: 13px;
+    font-family: Gotham-Medium;
+    background-color:#3D84FF;
+    border:none;
+    border-radius: 20%;
+    color: white;
+    cursor: pointer; 
+    width: 79px;
+    margin: 15px;
+    
+    &:focus{
+        outline: none;
+
+    }
+    &:hover{
+        background-color: darken($color: #3D84FF, $amount: 20)
+    }
+}
+.btn-primary{
+   background-color: $primary;
+   border-radius: 2px; 
+   &:disabled{
+      background-color: lighten($color: $primary, $amount: 15); 
+   }
+   &:hover{
+    background-color: darken($color: $primary, $amount: 20)
+}
+
+
+}
+.btn-block{
+    width: 100%;
+}
+    .btn-text {
+        float: right;
+        margin: 11px 40px 0 0;
+        color: $white;
+        font-size: 14px;
+        letter-spacing: 0.2px;
+        &:hover {
+            box-shadow: 0 0 6px $google-blue;
+        }
+        &:active {
+            background: $button-active-blue;
+        }
+    
+    }
+   
